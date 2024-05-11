@@ -9,6 +9,10 @@
 <a href="https://linkedin.com/yavuzalpbeydogan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 
+<a href="mailto:yavuzalpbeydogann@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogann@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+</a>
+
 <a href="https://twitter.com/yavuzzaallp/">
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@yavuzzaallp&color=000&logo=x" height="22px">
 </a>
@@ -17,9 +21,7 @@
     <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogan&color=whitesmoke&style=for-the-badge&logo=instagram" height="22px" />
 </a>
 
-<a href="mailto:yavuzalpbeydogann@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogann@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
-</a>
+
 </br>
 
 <h2>:bulb: Languages</h2>
