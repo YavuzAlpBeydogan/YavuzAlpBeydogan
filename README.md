@@ -15,15 +15,13 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/YavuzAlpBeydogan">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/YavuzAlpBeydogan?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@YavuzAlpBeydogan" height="22px">
+<a href="https://linkedin.com/in/yavuz-alp-beydoğan-221338252">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuz-alp-beydoğan-221338252&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="https://codepen.io/YavuzAlpBeydogan">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/YavuzAlpBeydogan&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
-<a href="https://linkedin.com/in/YavuzAlpBeydogan">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/YavuzAlpBeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
+
 <a href="https://twitter.com/yavuzzaallp/">
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@yavuzzaallp&color=000&logo=x" height="22px">
 </a>
