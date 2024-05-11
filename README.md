@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/main/assets/header.png"></div>
 
 <div align="center
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Yavuz+Alp+Beydogan" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan" alt="Typing SVG" /></a>
 </div>
 
 <a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/lastfm.yml"><img src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
