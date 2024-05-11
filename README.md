@@ -5,9 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan" alt="Typing SVG" /></a>
 </div>
 
-<a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/lastfm.yml"><img src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
-<a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/update-snk.yml"><img src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/recent-activity.yml"><img src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
 <table align="right">
  <tr><td><a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
