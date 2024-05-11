@@ -2,13 +2,15 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://pa1.narvii.com/7708/2c455abeef85c7b4f52bc519e66336790234a8b1r1-640-261_hq.gif"></div>
 
 <div align="center
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan;Software+Engineering+Student;Someone+who+never+tires+of+learning+and+research" alt="Typing SVG" /></a>
-    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan;Software+Engineering+Student;A+who+never+stops+learning" alt="Typing SVG" /></a>
 </div>
 
-<h2>:busts_in_silhouette: How to reach me</h2>
+<h2>:busts_in_silhouette:Contact me</h2>
 <a href="https://linkedin.com/yavuzalpbeydogan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+</a>
+<a href="https://linkedin.com/yavuzalpbeydogan">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=instagram" height="22px" />
 </a>
 <a href="https://twitter.com/yavuzzaallp/">
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@yavuzzaallp&color=000&logo=x" height="22px">
