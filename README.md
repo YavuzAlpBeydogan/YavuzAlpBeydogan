@@ -7,7 +7,7 @@
 
 <h2>:busts_in_silhouette:Contact me</h2>
 <a href="https://linkedin.com/yavuzalpbeydogan">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
     
 <a href="https://www.instagram.com/yavuzalpbeydogan/">
     <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogan&color=whitesmoke&style=for-the-badge&logo=instagram" height="22px" />
