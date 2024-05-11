@@ -1,6 +1,6 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif"></div>
-#https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/main/assets/header.png
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://pa1.narvii.com/7708/2c455abeef85c7b4f52bc519e66336790234a8b1r1-640-261_hq.gif"></div>
+
 <div align="center
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan" alt="Typing SVG" /></a>
 </div>
