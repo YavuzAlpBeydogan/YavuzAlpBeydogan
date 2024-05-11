@@ -1,26 +1,26 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
+<a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/lastfm.yml"><img src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
+<a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/update-snk.yml"><img src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
+<a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/recent-activity.yml"><img src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+ <tr><td><a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/YavuzAlpBeydogan/YavuzAlpBeydogan?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/YavuzAlpBeydogan/YavuzAlpBeydogan?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/YavuzAlpBeydogan/YavuzAlpBeydogan?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/YavuzAlpBeydogan/YavuzAlpBeydogan?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/YavuzAlpBeydogan/YavuzAlpBeydogan?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
@@ -28,21 +28,21 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+<a href="https://github.com/YavuzAlpBeydogan">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/YavuzAlpBeydogan?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@YavuzAlpBeydogan" height="22px">
 </a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+<a href="https://codepen.io/YavuzAlpBeydogan">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/YavuzAlpBeydogan&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
-<a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+<a href="https://linkedin.com/in/YavuzAlpBeydogan">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/YavuzAlpBeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-<a href="https://twitter.com/carol42helo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
+<a href="https://twitter.com/YavuzAlpBeydoganhelo/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@YavuzAlpBeydogan&color=000&logo=x" height="22px">
 </a>
 </a>
-<a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+<a href="mailto:YavuzAlpBeydogan.helo@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=YavuzAlpBeydogan.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 
@@ -77,18 +77,18 @@
 </details>
 
 <h2>:books: My personal portfolio</h2>
-<a href="https://github.com/Carol42/portfolio">
-    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+<a href="https://github.com/YavuzAlpBeydogan/portfolio">
+    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-YavuzAlpBeydogan.vercel.app/api/pin/?username=YavuzAlpBeydogan&repo=portfolio&theme=midnight-purple&hide_border=true">
 </a>
 </br>
-<a href="https://portfolio-carol42.vercel.app/">
+<a href="https://portfolio-YavuzAlpBeydogan.vercel.app/">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br>
 
 <h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
 </br>
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-YavuzAlpBeydogan.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
 <details>
     <summary>Recently played</summary>
@@ -120,7 +120,7 @@
 
 <h2>:octocat: My GitHub Activity</h2>
 
-:key: My GPG Public Key: [`6D1CA183558B0FF5`](https://github.com/Carol42.gpg)
+:key: My GPG Public Key: [`6D1CA183558B0FF5`](https://github.com/YavuzAlpBeydogan.gpg)
 
 <h3>:bar_chart: My GitHub Stats</h3>
 <details>
@@ -130,12 +130,12 @@
 2. ⭐ Starred [busyloop/lolcat](https://github.com/busyloop/lolcat)<br>
 3. ⭐ Starred [mame/quine-relay](https://github.com/mame/quine-relay)<br>
 4. ⭐ Starred [emojicode/emojicode](https://github.com/emojicode/emojicode)<br>
-5. 🔱 Forked [Carol42/Potato](https://github.com/Carol42/Potato) from [drtshock/Potato](https://github.com/drtshock/Potato)<br>
+5. 🔱 Forked [YavuzAlpBeydogan/Potato](https://github.com/YavuzAlpBeydogan/Potato) from [drtshock/Potato](https://github.com/drtshock/Potato)<br>
 6. ⭐ Starred [drtshock/Potato](https://github.com/drtshock/Potato)<br>
 7. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)<br>
-8. 💬 Commented on [#36](https://github.com/Carol42/Carol42/issues/36#issuecomment-2081155557) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-9. 💬 Commented on [#35](https://github.com/Carol42/Carol42/issues/35#issuecomment-2080597439) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-10. 💬 Commented on [#34](https://github.com/Carol42/Carol42/issues/34#issuecomment-1972134487) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+8. 💬 Commented on [#36](https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/issues/36#issuecomment-2081155557) in [YavuzAlpBeydogan/YavuzAlpBeydogan](https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan)<br>
+9. 💬 Commented on [#35](https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/issues/35#issuecomment-2080597439) in [YavuzAlpBeydogan/YavuzAlpBeydogan](https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan)<br>
+10. 💬 Commented on [#34](https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/issues/34#issuecomment-1972134487) in [YavuzAlpBeydogan/YavuzAlpBeydogan](https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
@@ -146,56 +146,56 @@ Last Updated: Saturday, May 11th, 2024, 9:23:13 AM
 <details>
     <summary>My GitHub stats</summary>
     <div>
-        <a href="https://github.com/Carol42">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
+        <a href="https://github.com/YavuzAlpBeydogan">
+            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/YavuzAlpBeydogan?style=for-the-badge&labelColor=7E3ACE&color=181717">
         </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/YavuzAlpBeydogan?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/YavuzAlpBeydogan?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/YavuzAlpBeydogan?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/YavuzAlpBeydogan?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/YavuzAlpBeydogan?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+        <img height=180em src="https://github-readme-stats-YavuzAlpBeydogan.vercel.app/api?username=YavuzAlpBeydogan&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
     </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+        <img height=180em src="https://github-readme-stats-YavuzAlpBeydogan.vercel.app/api/top-langs/?username=YavuzAlpBeydogan&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://streak-stats.demolab.com/?user=YavuzAlpBeydogan&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=YavuzAlpBeydogan&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=YavuzAlpBeydogan&theme=darkhub&no-frame=true&column=10">
     </a>
     <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=YavuzAlpBeydogan&theme=dark" alt="contribution stats">
     </a>-->
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
-    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Carol42">here</a>.</p>
-    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
+    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/YavuzAlpBeydogan">here</a>.</p>
+    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=YavuzAlpBeydogan">here</a>!</p>
 
 <h3> :star: My favorite GitHub Repos</h3>
-See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
+See <a href="https://github.com/YavuzAlpBeydogan/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
 
 <!-- <details>
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
     <div align="center">
-        <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/YavuzAlpBeydogan/count.svg">
     </div>
 </details> -->
 
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/output/github-contribution-grid-snake.svg">
 
 <h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
-<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/discussions/new/choose">Discussions</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -204,4 +204,4 @@ See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of th
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/main/assets/footer.png"></div>
