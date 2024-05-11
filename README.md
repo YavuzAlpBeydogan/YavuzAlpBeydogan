@@ -15,7 +15,7 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://linkedin.com/in/yavuzalpbeydogan">
+<a href="https://linkedin.com/yavuzalpbeydogan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="https://codepen.io/YavuzAlpBeydogan">
