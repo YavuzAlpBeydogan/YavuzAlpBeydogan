@@ -2,7 +2,8 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://pa1.narvii.com/7708/2c455abeef85c7b4f52bc519e66336790234a8b1r1-640-261_hq.gif"></div>
 
 <div align="center
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=846&height=55&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </div>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
