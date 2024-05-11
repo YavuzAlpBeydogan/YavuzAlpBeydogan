@@ -5,9 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Yavuz+Alp+Beydogan" alt="Typing SVG" /></a>
 </div>
 
-
-
-
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://linkedin.com/yavuzalpbeydogan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
@@ -24,7 +21,6 @@
 <h2>:bulb: Languages & Frameworks I code in</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="BOOSTRAP 5" alt="boostrap 5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
@@ -40,9 +36,9 @@
 </br></br>
 <details>
 <summary>Click here for a cute surprise! :3</summary>
-<img src="https://cat-gifs.cyclic.app">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MzdWx4ZWpleHg1dmZteDh4ZjdqNHJ1bTE3cDM1dnAxcGtiZTgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWODUP1UxnzGM/giphy.gif">
 </details>
-
+#https://cat-gifs.cyclic.app
 <h2>:books: My personal portfolio</h2>
 <a href="https://github.com/YavuzAlpBeydogan/portfolio">
     <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-YavuzAlpBeydogan.vercel.app/api/pin/?username=YavuzAlpBeydogan&repo=portfolio&theme=midnight-purple&hide_border=true">
