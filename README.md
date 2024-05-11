@@ -9,8 +9,8 @@
 <a href="https://linkedin.com/yavuzalpbeydogan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-<a href="https://linkedin.com/yavuzalpbeydogan">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=instagram" height="22px" />
+<a href="https://www.instagram.com/yavuzalpbeydogan/">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=instagram" height="22px" />
 </a>
 <a href="https://twitter.com/yavuzzaallp/">
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@yavuzzaallp&color=000&logo=x" height="22px">
