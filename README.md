@@ -14,7 +14,7 @@
 </a>
 </a>
 <a href="https://www.instagram.com/yavuzalpbeydogan/">
-    <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=/yavuzalpbeydogan&color=whitesmoke&style=for-the-badge&logo&style=for-the-badge&logo=facebook" height="22px" />
+    <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogan&color=whitesmoke&style=for-the-badge&logo&style=for-the-badge&logo=fb" height="22px" />
 </a>
 <a href="https://twitter.com/yavuzzaallp/">
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@yavuzzaallp&color=000&logo=x" height="22px">
