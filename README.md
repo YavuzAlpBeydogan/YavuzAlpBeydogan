@@ -28,8 +28,8 @@
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@YavuzAlpBeydogan&color=000&logo=x" height="22px">
 </a>
 </a>
-<a href="mailto:YavuzAlpBeydogan.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=YavuzAlpBeydogan.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+<a href="mailto:yavuzalpbeydogann@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogann@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 
