@@ -36,7 +36,7 @@
 </br></br>
 <details>
 <summary>Click here for a cute surprise! :3</summary>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MzdWx4ZWpleHg1dmZteDh4ZjdqNHJ1bTE3cDM1dnAxcGtiZTgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWODUP1UxnzGM/giphy.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFqdHM3enVsNHdrYW1zY3pjOHcwcnF4dWs1OGx1M2ZucHYzOThyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJXa8LqaoOsX6eralF/giphy.gif">
 </details>
 #https://cat-gifs.cyclic.app
 <h2>:books: My personal portfolio</h2>
