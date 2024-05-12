@@ -6,8 +6,6 @@
 </div>
 
 <h2>:busts_in_silhouette:Contact me</h2>
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yavuzalpbeydogan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/yavuzalpbeydogan?trk=profile-badge">Yavuz Alp BEYDOĞAN</a></div>
-              
 <a href="https://www.linkedin.com/in/yavuzalpbeydogan/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=yavuzalpbeydogan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" /> </a>
 
