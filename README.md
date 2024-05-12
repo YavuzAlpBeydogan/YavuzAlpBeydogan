@@ -44,9 +44,6 @@
 <code><img title="Git" alt="git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://www.svgrepo.com/show/452204/firefox.svg" /></code>
 <br>
-
-![snake gif](https://github.com/YavuzAlpBeydogan/YavuzAlpBeydogan/blob/output/github-contribution-grid-snake.gif)
-
 </br></br>
 <details>
 <summary>click me :)</summary>
