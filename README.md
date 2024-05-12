@@ -55,4 +55,4 @@
 <br>
 <div align="center" ><img width="100%" alt="GoodBye!" src="https://www.pngkey.com/png/full/233-2331772_bye-bye-png-good-bye-logo-png.png"></div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=black&style=flat&logo" alt="back to top" /></a></p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=black&style=flat&logo" alt="back to top" /></a></p>
