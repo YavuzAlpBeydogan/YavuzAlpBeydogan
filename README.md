@@ -38,8 +38,8 @@
 <h2>:hammer_and_wrench: Platforms</h2>
 <code><img title="İOS" alt="ios" width="30px" src="https://www.svgrepo.com/show/387985/mac-finder.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://www.svgrepo.com/show/475654/github-color.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
 
 
