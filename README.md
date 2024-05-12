@@ -43,6 +43,13 @@
 <code><img title="GitHub" alt="github" width="30px" src="https://www.svgrepo.com/show/475654/github-color.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://www.svgrepo.com/show/452204/firefox.svg" /></code>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YavuzAlpBeydogan/YavuzAlpBeydogan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YavuzAlpBeydogan/YavuzAlpBeydogan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YavuzAlpBeydogan/YavuzAlpBeydogan/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 </br></br>
