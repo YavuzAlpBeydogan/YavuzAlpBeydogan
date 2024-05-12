@@ -30,7 +30,7 @@
 <code><img title="BOOTSTRAP 5" alt="bootstrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="30px" src="https://www.svgrepo.com/show/354118/nodejs.svg" /></code>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 </br></br>
 
@@ -38,6 +38,8 @@
 <h2>:hammer_and_wrench: Platforms</h2>
 <code><img title="İOS" alt="ios" width="30px" src="https://www.svgrepo.com/show/387985/mac-finder.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="X CODE" alt="xcode" width="30px" src="https://www.svgrepo.com/show/374194/xcode.svg" /></code>
+<code><img title="JUPYTER" alt="jupyter" width="30px" src="https://www.svgrepo.com/show/353949/jupyter.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://www.svgrepo.com/show/475654/github-color.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://www.svgrepo.com/show/452204/firefox.svg" /></code>
