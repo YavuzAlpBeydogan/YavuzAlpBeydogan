@@ -55,4 +55,4 @@
 <div align="center" ><img alt="" width="100%" src="https://www.pngkey.com/detail/u2w7r5y3a9w7y3y3_bye-bye-png-good-bye-logo-png/"</div>
     
 <br>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://pa1.narvii.com/7708/2c455abeef85c7b4f52bc519e66336790234a8b1r1-640-261_hq.gif"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://www.pngkey.com/png/full/233-2331772_bye-bye-png-good-bye-logo-png.png"></div>
