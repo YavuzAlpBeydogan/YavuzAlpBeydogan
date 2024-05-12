@@ -51,5 +51,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=846&height=55&lines=Take+Care%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://www.pngkey.com/png/full/233-2331772_bye-bye-png-good-bye-logo-png.png" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://i.gifer.com/embedded/download/5K2z.gif"></div>
+
+<div align="center" ><img alt="" width="100%" src="https://www.pngkey.com/detail/u2w7r5y3a9w7y3y3_bye-bye-png-good-bye-logo-png/"</div>
+<p align="right"><a href="#top"><img  src="https://img.shields.io/static/v1?label&message=back+to+top&color=black&style=flat&logo" alt="back to top" /></a></p>
+
